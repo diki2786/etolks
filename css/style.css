@@ -269,7 +269,7 @@ h5{
 }
 
 #feature,#about,#overview ,#feedback ,#footer{
-	padding: 80px 0px;
+	padding: 0px 0px;
 	background: #fff;
 }
 
@@ -1072,13 +1072,13 @@ h5{
 }
 .form-group label{
 	text-transform: capitalize;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 .form-control{
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	border-radius: 2px;
-	height: 45px;
+	height: 35px;
 	background: transparent;
 }
 .form-control:focus{
@@ -1165,7 +1165,7 @@ h5{
 =========================================================================*/
 
 #footer{
-	padding: 50px 0px;
+	padding: 0px 0px;
 }
 
 .footer-socail{
